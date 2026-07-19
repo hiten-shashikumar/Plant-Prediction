@@ -1,0 +1,20 @@
+# Python virtual environments
+tfenv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# TensorFlow model files
+*.keras
+*.h5
+*.pb
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
